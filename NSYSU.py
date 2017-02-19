@@ -4,4 +4,3 @@ cast.pop()
 print(cast)
 cast.extend(["Gillan","Chanpman"])
 print(cast)
-
