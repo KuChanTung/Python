@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#Crawer Google News
+
 # coding=utf-8
 # -*- coding: utf8 -*-
 
